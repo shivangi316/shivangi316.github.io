@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="external.css">    
+  </head>
+  <body>
+    <p>
+    </p>
+    <table class="center">
+      <td>
+	<a href="index.html">HOME</a>
+      </td>
+      <td>
+	<a href="aboutme.html">ABOUT ME!</a>
+      </td>
+      <td>
+	<a href="portfolio.html">MY ISP</a>
+      </td>
+      <td>
+	<a href="DigitalPortfolioImportance.html">WHY IS A DIGITAL PORTFOLIO IMPORTANT</a>
+      </td>
+      <td>
+	<a href="classes.html">CLASSES</a>
+      </td>
+      <td>
+	<a href="fingerprints.html">FINGERPRINTS</a>
+      </td>
+    </table>
+    
+    <div class="waviy">
+      <h1>      
+	<span style="--i:1">f</span>
+	<span style="--i:2">i</span>
+	<span style="--i:3">n</span>
+	<span style="--i:4">g</span>
+	<span style="--i:5">e</span>
+	<span style="--i:6">r</span>
+	<span style="--i:7">p</span>
+	<span style="--i:8">r</span>
+	<span style="--i:9">i</span>
+	<span style="--i:10">n</span>
+	<span style="--i:11">t</span>
+	<span style="--i:12">s</span>
+      </h1> 
+      
+    </div>
+
+    
+    <p>
+      
+    </p>
+  </body>
+<html>
+  
