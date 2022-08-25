@@ -76,6 +76,9 @@
 	  margin-left: auto;
 	  margin-right: auto;
       }
+      .hangingindent {
+	  padding-left: 22px ;
+      }
       td{
 	  text-align: center;
 	  text-width: 100px;
@@ -87,6 +90,12 @@
 	  margin-right: 40;
 	  font-family: times new roman;
 	  font-size: 25px;
+      }
+      body2{
+	  font-size: 15px;
+      }
+      h2{
+      font-size: 45;
       }
     </style>
     
@@ -137,11 +146,35 @@
     <p>
       A digital fingerprint is a personal digital ID. Every computer, website, telephone, anything electronic has one. A digital fingerprint tracks everything you do, so every website you go to is marked by your digital fingerprint, all this information then becomes logged, hashed, and stored on a public server. One example of a fingerprint is an IP address. Every computer has a unique IP address that is only applicable to that specific device, if anyone gets ahold of this address then they can easily track what you are doing on your computer.
 
-      There are security measures installed so that we minimize the amount of tracking that goes on. The HTTPS, hypertext transfer protocol secure, is most common. Its an extension that is designed to employ a secure connection that is authentic, secure, and encrypted. An HTTPS proxy appliance is a request or response protocol for the communication between clients and servers to solidify safe communications and transactions.The proxy alliance is a barrier that restricts unsecure or unchecked information for clients to pass through. Similarly, an SSL proxy performs both encryption and decryption discretely between the client and the server to process and send data faster. Despite such secure measures that are taken to keep information secure, a SSL Interception may occur. An SSL interception is when a device is intercepted or replaced and sits between the client and server. Since it is placed between both destinations, it decrypts, scans, and copies all information that passess through the line. A solution for resisting SSL interception is a certification or a hash that is only applicable to one computer, so a personal identification; only people who meet the qualifications and have unique credentials will be able to access the client server line limiting the amount of interceptions. However this is not the only type of interception that can occur between a client and server. A MITM is a man in the middle attack. This is dangerous because MITM hackers are similar to an SSL interception except instead of a device impersonating or eavesdropping on a conversation its a person who is watching and listening. This man in the middle can easily decrypt all the personal information that is processed between the client server link.  Now going back to limiting interception, hashing is a good way to do that. There are multiple types of hash, but cryptographic hashes are significantly more secure. Cryptographic hashes are comprised of complex mathematical algorithms which easily process all information on a web page or document. It takes all the information and derives a string of characters and numbers that is extremely unique, each hash has one and only one destination. The essential qualities that make a good hash is that even if there is the slightest change in the information, you get a completely different/new hash.
+      There are security measures installed so that we minimize the amount of tracking that goes on. The HTTPS, hypertext transfer protocol secure, is most common. Its an extension that is designed to employ a secure connection that is authentic, secure, and encrypted. An HTTPS proxy appliance is a request or response protocol for the communication between clients and servers to solidify safe communications and transactions.The proxy alliance is a barrier that restricts unsecure or unchecked information for clients to pass through. Similarly, an SSL proxy performs both encryption and decryption discretely between the client and the server to process and send data faster. Despite such secure measures that are taken to keep information secure, a SSL Interception may occur. An SSL interception is when a device is intercepted or replaced and sits between the client and server. Since it is placed between both destinations, it decrypts, scans, and copies all information that passess through the line. A solution for resisting SSL interception is a certification or a hash that is only applicable to one computer, so a personal identification; only people who meet the qualifications and have unique credentials will be able to access the client server line limiting the amount of interceptions. However this is not the only type of interception that can occur between a client and server. A MITM is a man in the middle attack. This is dangerous because MITM hackers are similar to an SSL interception except instead of a device impersonating or eavesdropping on a conversation its a person who is watching and listening. This “man in the middle” can easily decrypt all the personal information that is processed between the client server link.  Now going back to limiting interception, hashing is a good way to do that. There are multiple types of hash, but cryptographic hashes are significantly more secure. Cryptographic hashes are comprised of complex mathematical algorithms which easily process all information on a web page or document. It takes all the information and derives a string of characters and numbers that is extremely unique, each hash has one and only one destination. The essential qualities that make a good hash is that even if there is the slightest change in the information, you get a completely different/new hash.
 
-      Now to prove that you are on a secure website or a secure browser there are entities known as "Certificate Authorities" (CA) to whom websites prove their identity through extensive documentation. This ensures that all validated websites are authentic and trustworthy from trained officials instead of artificial intelligence (computers).. When a website has proven authenticity and validity, they receive the Certificate Authority (CA) which will give a digital reputation of trust and security. With the enormous security measures taken to ensure safety of personal information, situations such as a false positive and false negative validation certification may occur but this only happens with big companies who have many validation certificates. A false positive situation is when the client has received a different valid certificate than the one received and chown by the web page.  A false negative is when a certification doesnt show or is denied between the server and the client.
-      
+      Now to prove that you are on a secure website or a secure browser there are entities known as Certificate Authorities (CA) to whom websites prove their identity through extensive documentation. This ensures that all validated websites are authentic and trustworthy from trained officials instead of artificial intelligence (computers).. When a website has proven authenticity and validity, they receive the Certificate Authority (CA) which will give a digital reputation of trust and security. With the enormous security measures taken to ensure safety of personal information, situations such as a false positive and false negative validation certification may occur but this only happens with big companies who have many validation certificates. A false positive situation is when the client has received a different valid certificate than the one received and chown by the web page.  A false negative is when a certification doesnt show or is denied between the server and the client.
     </p>
   </body>
+  
+<h2>work cited</h2>
+  <body2>    
+     <p class="hangingindent"> Gibson research corporation. (2020). GRC | SSL TLS HTTPS Web Server Certificate Fingerprints. Gibson Research. Retrieved August 25, 2022, from https://www.grc.com/fingerprints.htm#top
+      
+     </p>
+    <p>
+      Indeed editorial team. (2021, October 4). What Does a Chartered Accountant Do? Duties and Career Path. Indeed. Retrieved August 25, 2022, from https://in.indeed.com/career-advice/finding-a-job/what-does-chartered-accountants-do
+    </p>
+    <p>Jasper, D. (2017, March 27). Your internet service provider shouldnt be allowed to spy on you, but they can (and will). Mashable. Retrieved August 25, 2022, from https://mashable.com/article/internet-service-provider-privacy-bill-bad-for-consumers
+    </p>
+    <p>  kirjazovas, v. (2020, 4 16). What is an SSL Proxy and How Does it Work? Oxylabs. Retrieved August 25, 2022, from https://oxylabs.io/blog/what-is-an-ssl-proxy-and-benefits
+    </p>
+    <p> Leyden, J. (2019, March 20). Sysadmins offered new tools to detect HTTPS interception. PortSwigger. Retrieved August 25, 2022, from https://portswigger.net/daily-swig/sysadmins-offered-new-tools-to-detect-https-interception
+    </p>
+    <p>   Phoenix, J. (2021, April 30). What is a Digital Fingerprint? Just Understanding Data. Retrieved August 25, 2022, from https://understandingdata.com/what-is-a-digital-fingerprint/
+    </p>
+    <p>    Thakkar, J. (2018, August 3). What is SSL Inspection? How does it work? The SSL Store. Retrieved August 25, 2022, from https://www.thesslstore.com/blog/ssl-inspection/
+    </p>
+    <p>     Thompson, j. (2017, July 12). FIGHTING BACK AGAINST SSL INSPECTION, OR HOW SSL SHOULD WORK. Independent Security Evaluators. Retrieved August 25, 2022, from https://www.ise.io/casestudies/fighting-back-against-ssl-inspection-or-how-ssl-should-work/
+      
+    </p>
+    <iframe src="https://drive.google.com/file/d/1pkgYUBWl2V5DJc2G7sFcQbT6W630N6wy/preview" width="640" height="480" allow="autoplay"></iframe>
+    
+  </body2>
 <html>
   
