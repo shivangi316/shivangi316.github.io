@@ -18,7 +18,10 @@ h0{
 }
 h1{
     min-height: 10vh;
-    font-size: 25px;
+    font-size: 50px;
+}
+.middle{
+    margin-top: 75px;
 }
 h2{
     min-height: 10vh;
