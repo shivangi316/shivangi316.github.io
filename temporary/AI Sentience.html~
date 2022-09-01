@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> AI SENTIENCE</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="external.css">
+  </head>
+  <body>
+    <table class="center">
+      <tr>
+	<td>
+	  <a href="index.html">HOME</a>
+	</td>
+	<td>
+	  <a href="aboutme.html">ABOUT ME!</a>
+	</td>
+	<td>
+	  <a href="portfolio.html">MY ISP</a>
+	</td>
+	<td>
+	  <a href="DigitalPortfolioImportance.html">WHY IS A DIGITAL PORTFOLIO IMPORTANT</a>
+	</td>
+	<td>
+	  <a href="classes.html">CLASSES</a>
+	</td>
+	<td>
+	  <a href="fingerprints.html">FINGERPRINTS</a>
+	</td>
+	<td>
+	  <a href="AI sentience.html">AI SENTIENCE</a>
+	</td>
+      </tr>
+    </table>
+    <div class="waviy">
+      <h1 class="middle">
+	<span style="--i:1">a</span>
+	<span style="--i:2">i</span>
+	<span style="--i:3"> </span>
+	<span style="--i:4"> </span>
+	<span style="--i:5">s</span>
+	<span style="--i:6">e</span>
+	<span style="--i:7">n</span>
+        <span style="--i:8">t</span>
+	<span style="--i:9">i</span>
+	<span style="--i:10">e</span>
+	<span style="--i:11">n</span>
+	<span style="--i:12">c</span>
+	<span style="--i:13">e</span>
+      </h1>
+    </div>
+    <p>
+
+
+
+      
+    </p>
+  </body>
+  
+  </html> 
