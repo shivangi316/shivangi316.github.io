@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> optimal sort </title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../external.css">
+  </head>
+  <body>
+    <table class="center">
+      <tr>
+	<td>
+	    <a href="../../../index.html">HOME</a>
+	    </td>
+	<td>
+	    <a href="../../../pages/aboutme.html">ABOUT ME!</a>
+	    </td>
+	<td>
+	    <a href="../../../pages/portfolio.html">MY ISP</a>
+	    </td>
+	<td>
+	    <a href="../../../pages/DigitalPortfolioImportance.html">WHY IS A DIGITAL PORTFOLIO IMPORTANT</a>
+	    </td>
+	<td>
+	    <a href="../../../pages/classes.html">CLASSES</a>
+	    </td>
+	<td>
+	    <a href="../../Essays/Fingerprints.html">FINGERPRINTS</a>
+	    </td>
+	<td>
+	    <a href="../../Essays/AI%20Sentience.html">AI SENTIENCE</a>
+	    </td>
+	<td>
+	    <a href="../Optimal%20sort.html">OPTIMAL SORT</a>
+	    </td>
+	
+
+      </tr>
+    </table>
+
+    <div class="waviy">
+      <h1>
+	<span style="--i:1">c</span>
+	<span style="--i:2">a</span>
+	<span style="--i:3">s</span>
+	<span style="--i:4">t</span>
+	<span style="--i:5"> </span>
+	<span style="--i:6"> </span>
+	<span style="--i:7">a</span>
+	<span style="--i:8">w</span>
+	<span style="--i:9">a</span>
+	<span style="--i:10">y</span>
+	</h1>
+
+    </div>
+    <p>
+      group members: lilly seeley, shivangi gupta.
+    </p>
+<br>
+    <p>
+      <img src="castaway proposal.svg" alt="image"> 
+    </p>
+  </body>
+</html>
