@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> Shelter Safe </title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../../external.css">
+  </head>
+  <body>
+    <div class="center">
+      <a href="../../../index.html">HOME</a>
+      <div class="dropdown">
+	<button class="dropbtn">INTRODUCTION</button>
+	<div class="dropdown-content">
+	  <a href="../../../pages/aboutme.html">ABOUT ME!</a>
+	  <a href="../../../pages/portfolio.html">MY ISP</a>
+	  <a href="../../../pages/DigitalPortfolioImportance.html">WHY IS A DIGITAL PORTFOLIO IMPORTANT</a>
+	  <a href="../../../pages/classes.html">CLASSES</a>
+	</div>
+      </div>
+      
+      <div class="dropdown">
+	<button class="dropbtn">ESSAYS</button>
+	<div class="dropdown-content">
+	  <a href="../../Essays/Fingerprints.html">FINGERPRINTS</a>
+	  <a href="../../Essays/AI%20Sentience.html">AI SENTIENCE</a>
+	</div>
+      </div>
+      
+      <div class="dropdown">
+	<button class="dropbtn">CS-3</button>
+	<div class="dropdown-content">
+	  <a href="../Optimal%20Sort.html">OPTIMAL SORT</a>
+	  <a href="../Business%20Plan/index.html"> CASATAWAY PROPOSAL </a>
+	  <a href="../Business%20Plan/considered.html"> CONSIDERATIONS </a>
+	</div>
+      </div>
+      
+      <div class="dropdown">
+	<button class="dropbtn">SHELTERSAFE</button>
+	<div class="dropdown-content">
+	  <a href="index.html">Intro to ISP </a>
+	</div>
+      </div>
+    </div>
+
+      <div class="waviy">
+      <h1>
+	<span style="--i:1">S</span>
+	<span style="--i:2">h</span>
+	<span style="--i:3">e</span>
+	<span style="--i:4">l</span>
+	<span style="--i:5">t</span>
+	<span style="--i:6">e</span>
+	<span style="--i:7">r</span>
+	<span style="--i:8">s</span>
+	<span style="--i:9">a</span>
+	<span style="--i:10">f</span>
+	<span style="--i:11">e</span>
+	
+      </h1>
+      
+    </div>
+    <p>
+      group members: 
+      <br>
+      <br>
+      Onik Hoque
+      <br>
+      Pranav Krishnan
+      <br>
+      Shivanshi Das
+      <br>
+    </p>
+    
+  </body>
+</html>
