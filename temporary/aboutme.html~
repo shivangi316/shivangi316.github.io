@@ -1,37 +1,34 @@
-<html>
-  
-      <title> About Me! </title>
-      <head>
-<link rel="stylesheet" href="external.css">
-      </head>
-      
-    <h0>
-      <table class="center">
-	<td>
-	  <a href="index.html">HOME</a>
-	</td>
-	<td>
-	  <a href="aboutme.html">ABOUT ME!</a>
-	</td>
-	  <td>
-	    <a href="portfolio.html">MY ISP</a>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>about me </title>
+<meta charset="UTF-8">
+    <link rel="stylesheet" href="external.css">
+    </head>
+    
+  <table class="center">
+<tr>
+    <td>
+      <a href="index.html">HOME</a>
+    </td>
+    <td>
+      <a href="aboutme.html">ABOUT ME!</a>
+    </td>
+    <td>
+      <a href="portfolio.html">MY ISP</a>
 	  </td>
-	<td>
-	  <a href="DigitalPortfolioImportance.html">WHY IS A DIGITAL PORTFOLIO IMPORTANT</a>
+    <td>
+      <a href="DigitalPortfolioImportance.html">WHY IS A DIGITAL PORTFOLIO IMPORTANT</a>
+    </td>
+    <td>
+      <a href="classes.html"> CLASSES</a>
 	</td>
-	<td>
-	  <a href="classes.html"> CLASSES</a>
-	</td>
-	<td>
-	  <a href="fingerprints.html">FINGERPRINTS</a>
-	     </td>
-
-      </table>
-      
-    </h0>
-   
-    <body>  
-      
+    <td>
+      <a href="fingerprints.html">FINGERPRINTS</a>
+    </td>
+    </tr>
+  </table>
+  
 	<div class="waviy">
 	  <h1>
 	    <span style="--i:1">A</span>
