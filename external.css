@@ -115,7 +115,7 @@ br{
 }
 /* Dropdown Button */
 .dropbtn {
-    background-color: Transparent;
+    background-color: lightblue;
     color: Black;
     padding: 16px;
     font-size: 20px;
@@ -135,7 +135,7 @@ br{
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: Transparent;
+    background-color: white;
     min-width: 50px;
     font-size: 20px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
