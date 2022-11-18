@@ -6,33 +6,24 @@
 }
 
 body {
-    background-color: grey;
+    background-color: lightblue;
     font-size: 20px;
     justify-content: center;
     align-items: center;
 
 }
-h3{
-    min-height: 10vh;
-    font-size: 20px;
-   
-    text-align: center;
-}
 .waviy {
     position: relative;
-   /* -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0,0,0,.2));
-    */font-size: 30px;
+   font-size: 30px;
     text-align: center;
 }
 .waviy span {
     font-family: 'Alfa Slab One', cursive;
     position: relative;
     display: inline-block;
-    color: white;
+    color: #002D62;
     text-transform: uppercase;
     animation: waviy 1s infinite;
-  /*  animation-delay: calc(.1s * var(--i));
-*/
 }
 @keyframes waviy {
     0%,40%,100% {
@@ -43,27 +34,6 @@ h3{
     }
 }
 
- body{ 
-     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); 
-     background-size: 400% 400%; 
-     animation: gradient 8s ease infinite; 
- } 
-
-@keyframes gradient {
-    0% {
-	background-position: 0% 50%;
-    }
-    50% {
-	background-position: 100% 50%;
-    }
-    100% {
-	background-position: 0% 50%;
-    }
-}
-.center {
-    margin-left: auto;
-    margin-right: auto;
-}
 p{
     text-indent: 50px;
     line-height: 2;
@@ -73,36 +43,15 @@ p{
  }
 .hangingindent {
     padding: 10px;
-	padding-left: 64px;
-	text-indent: -60px;
-	margin-left: 25%;
-	margin-right: 25%;
-	line-height: 2;
+    padding-left: 64px;
+    text-indent: -60px;
+    margin-left: 25%;
+    margin-right: 25%;
+    line-height: 2;
 }
-td{
-    text-align: center;
-    font-size: 20px;
-    padding: 10px;
 
-}
-br{
-    text-align: center;
-    display: block;
-    margin-bottom: 2px;
-    font-size:2px;
-    line-height: 2px;
-
-}
-head{
-    text-align: center;
-
-}
 .centerhead {    
     text-align: center;
-}
-.center{
-    margin-left: auto;
-    margin-right: auto;
 }
 iframe{
     display: block;
@@ -115,27 +64,22 @@ iframe{
     padding: 16px;
     font-size: 20px;
     border: none;
-    font-family: Times New Roman;
-    
-    
+    font-family: Times New Roman;   
 }
-
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
     position: relative;
     display: inline-block;
 }
-
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: white;
+    background-color: #E0E0E0;
     min-width: 50px;
     font-size: 20px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-
 }
 
 
@@ -152,7 +96,3 @@ iframe{
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
-
-/* Change the background color of the dropdown button when the dropdown content is shown 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
-*/
