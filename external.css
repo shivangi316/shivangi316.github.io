@@ -87,3 +87,7 @@ ul.a{
 .dropdown-content a:hover {background-color: lightpink;}
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
+.centerlist {
+    text-align: center;
+    font-size: 20px;
+}

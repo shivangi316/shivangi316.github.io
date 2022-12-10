@@ -12,6 +12,10 @@ body {
     align-items: center;
 
 }
+.head{
+    margin-left: 25%;
+    
+}
 .waviy {
     position: relative;
    font-size: 30px;
