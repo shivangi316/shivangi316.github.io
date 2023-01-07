@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> Journal </title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../../external.css">
+  </head>
+  <body>
+    <div class="center">
+      <div class="dropdown">
+	<button class="dropbtn">HOME</button>
+	<div class="dropdown-content">
+	  <a href="../../../index.html"> HOME <a>    
+	      </div>
+      </div>
+      <div class="dropdown">
+	<button class="dropbtn">INTRODUCTION</button>
+	<div class="dropdown-content">
+	    <a href="../../../pages/aboutme.html">ABOUT ME!</a>
+	      <a href="../../../pages/portfolio.html">MY ISP</a>
+	        <a href="../../../pages/DigitalPortfolioImportance.html">WHY IS A DIGITAL PORTFOLIO IMPORTANT</a>
+		  <a href="../../../pages/classes.html">CLASSES</a>
+		  </div>
+      </div>
+      
+      <div class="dropdown">
+	<button class="dropbtn">ESSAYS</button>
+	<div class="dropdown-content">
+	    <a href="../../Essays/Fingerprints.html">FINGERPRINTS</a>
+	      <a href="../../Essays/AI%20Sentience.html">AI SENTIENCE</a>
+	      </div>
+      </div>
+      
+      <div class="dropdown">
+	<button class="dropbtn">CS-3</button>
+	<div class="dropdown-content">
+	    <a href="../Optimal%20Sort.html">OPTIMAL SORT</a>
+	      <a href="../Business%20Plan/index.html"> CASATAWAY PROPOSAL </a>
+	        <a href="../Business%20Plan/considered.html"> CONSIDERATIONS </a>
+		</div>
+      </div>
+      
+      <div class="dropdown">
+	<button class="dropbtn">SHELTERSAFE</button>
+	<div class="dropdown-content">
+	    <a href="index.html">Intro to ISP </a>
+	    <a href="../../../CS-III/Essays/Decision%20Making.html">DECISION MAKING </a>
+	    <a href="Journal.html">ISP JOURNAL</a>
+	    
+	</div>
+      </div>
+    </div>
+    <br>
+ 
+      <div class="waviy">
+      <h1>
+	<span style="--i:1">J</span>
+	<span style="--i:2">o</span>
+	<span style="--i:3">u</span>
+	<span style="--i:4">r</span>
+	<span style="--i:5">n</span>
+	<span style="--i:6">a</span>
+	<span style="--i:7">l</span>	
+      </h1>
+      
+    </div>
+    <p>
+      Monday January 2nd 2023
+
+      (Software) Development Engineer:
+
+      <br>
+      <br>
+
+      QA Engineer:
+
+      <br>
+      <br>
+
+      Project Manager:
+
+      <br>
+      <br>
+
+      Product Manager:
+
+      <br>
+      <br>
+
+      Release Engineer:
+
+      <br>
+      <br>
+      
+    </p>
+    
